@@ -1,0 +1,160 @@
+h1 {
+  color: darkorange;
+  font-size: xx-large;
+  display: flex;
+  justify-content: center;
+  font-size: 5rem;
+}
+h2 {
+  color: darkorange;
+
+  display: flex;
+  justify-content: center;
+  font-size: 3rem;
+}
+h1:hover {
+  color: darkblue;
+}
+h2:hover {
+  color: darkblue;
+}
+body {
+  background-color: lightblue;
+  margin: 0;
+}
+
+.hero-image-mountain {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.clouds-image {
+  display: flex;
+  justify-content: space-between;
+}
+header {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+footer {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 500px;
+
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+header:hover {
+  color: darkorange;
+}
+
+.cloud3 {
+  margin-left: 1100px;
+}
+
+.luca {
+  display: flex;
+  border-radius: 50%;
+  height: 50px;
+}
+.headerlinks {
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+  margin-top: 10px;
+}
+
+.navbar {
+  width: 500px;
+  display: flex;
+  justify-content: space-between;
+}
+.about {
+  margin-left: 47%;
+  margin-right: 5%;
+  font-size: xx-large;
+}
+
+.summary {
+  margin-left: 5%;
+  margin-right: 65%;
+  font-size: xx-large;
+}
+.coding-img {
+  height: 270px;
+  width: 270px;
+}
+
+.work-title {
+  font-size: xx-large;
+  margin-right: 65%;
+  margin-left: 5%;
+}
+.work-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 5%;
+  margin-right: 15%;
+}
+.p1 {
+  font-size: large;
+  margin-right: 20%;
+}
+.about-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 1%;
+  margin-right: 5%;
+}
+.p2 {
+  font-size: large;
+  margin-left: 5%;
+}
+
+.hiking-img {
+  height: 250px;
+  width: 250px;
+  margin-left: 15%;
+  margin-right: 5%;
+}
+.p3-image {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 5%;
+  margin-right: 15%;
+  justify-content: space-around;
+}
+.p3 {
+  font-size: large;
+  margin-right: 20%;
+}
+.snowboard {
+  height: 300px;
+  width: 300px;
+}
+.h1-h2 {
+  margin-top: -5%;
+  margin-bottom: -5%;
+}
+.i-can-help {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.help-title {
+  display: flex;
+  justify-content: center;
+}
+.help-p {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-right: 30%;
+  margin-left: 30%;
+}
